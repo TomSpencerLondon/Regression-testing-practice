@@ -1,5 +1,7 @@
 # Visual Regression Testing Example Repository
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/TomSpencerLondon/Regression-testing-practice.svg)](https://greenkeeper.io/)
+
 This repository is an example for Andrew Taylors talk/workshop Automating your QA with Visual Regression Testing and David Needham's talk/workshop Visual Regression Testing with BackstopJS. Andrew's slides that accompany this repository can be found [here](https://bit.ly/ataylorme-visual-regression-workshop) and David's can be found [here](https://visual-regression.davidneedham.me).
 
 [BackstopJS](https://github.com/garris/BackstopJS/) is used for the visual regression testing. The app itself is built with [Node JS](https://nodejs.org/), [`commander.js`](https://github.com/tj/commander.js/), and [`Inquirer.js`](https://github.com/SBoudrias/Inquirer.js).
